@@ -1,0 +1,1 @@
+On issues folder you can see how to run the code!! Major idea is I wanted to remember and have fun!! This is a drink/perfume recommendation according to NBA champion you pick...you pick 1996 when champions were Chicago Bulls and voila it recommends a perfume or a cocktail...it's funny!
